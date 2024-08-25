@@ -37,13 +37,16 @@
   - No poor ADB bridge (no connected devices).
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
   - No poor browser module.
+  - No jailbreaks or tweaks used (since no physical devices are required).
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
-- A few examples of available modules (as of August 2024):
+- A few examples of (soon) available modules:
 
   - Tinder Account Creator
   - Tinder Account Ager (warm up)
   - Automated Tinder account verification (by SMS)
+  - Export of Tinder tokens (to be used in your own tools)
+  - Export of Tinder refresh tokens (to be used in your own tools)
   - Tinder Swiper
   - Tinder Chat/Messenger incl. auto responder (scheduled messages based on events/keywords)
   - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
