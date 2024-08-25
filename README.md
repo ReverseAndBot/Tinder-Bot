@@ -35,7 +35,7 @@
   - Setup the workflows once with your favorite browser.
   - No installation required.
   - No poor ADB bridge (no connected devices).
-  - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Snapchat-Bot/blob/main/SnapchatGenerateTokens.cpp
+  - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
   - No poor browser module.
   - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
 
