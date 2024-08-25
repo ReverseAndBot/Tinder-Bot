@@ -44,6 +44,9 @@
   - Tinder Account Creator
   - Tinder Account Ager (warm up)
   - Automated Tinder account verification (by SMS)
+  - Tinder Swiper
+  - Tinder Chat/Messenger incl. auto responder (scheduled messages based on events/keywords)
+  - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
   - Additional professional options for OnlyFans agencies (OFM)
   - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Snapchat API, without any interaction by you)
   - Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)
