@@ -48,7 +48,7 @@
   - Tinder Chat/Messenger incl. auto responder (scheduled messages based on events/keywords)
   - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
   - Additional professional options for OnlyFans agencies (OFM)
-  - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Snapchat API, without any interaction by you)
+  - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Tinder API, without any interaction by you)
   - Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)
   - etc.
 
@@ -77,9 +77,9 @@
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
   - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
-  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
+  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
-  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
+  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Tinder-Bot
 
   [^1]: "SaaS" = Software as a Service = https://en.wikipedia.org/wiki/Software_as_a_service
 
@@ -91,4 +91,4 @@
 
 ### Keywords
 
-Snapchat Bot - Snapchat API Bot - Snapchat API - Snapchat API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Snapchat-Att - X-Snapchat-Att-Token - X-Snap-Access-Token - X-Snapchat-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - OnlyFans - OFM
+Tinder Bot - Tinder API Bot - Tinder API - Tinder API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Tinder-Att - X-Tinder-Att-Token - X-Snap-Access-Token - X-Tinder-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - OnlyFans - OFM
