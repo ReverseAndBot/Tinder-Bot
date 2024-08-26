@@ -42,13 +42,14 @@
 
 - A few examples of (soon) available modules:
 
-  - Tinder Account Creator
-  - Tinder Account Ager (warm up)
+  - Tinder ***Account Creator***
+  - Tinder ***Account Ager*** (warm up)
   - Automated Tinder account verification (by SMS)
-  - Export of Tinder tokens (to be used in your own tools)
-  - Export of Tinder refresh tokens (to be used in your own tools)
+  - Export of ***Tinder tokens*** (to be used in your own tools)
+  - Export of ***Tinder refresh tokens*** (to be used in your own tools)
+  - Tinder ***Location Spoofer*** (to set your desired geo location wherever you want, no external app required)
   - Tinder Swiper
-  - Tinder Chat/Messenger incl. auto responder (scheduled messages based on events/keywords)
+  - Tinder ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
   - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
   - Additional professional options for OnlyFans agencies (OFM)
   - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Tinder API, without any interaction by you)
