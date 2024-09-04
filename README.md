@@ -6,11 +6,6 @@
 
 &nbsp;
 
-![banner](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Create-a-workflow_-_20240824.png)
-Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (tasks)
-
-&nbsp;
-
 > [!NOTE]
 > Last update of this page: September 4th, 2024
 
