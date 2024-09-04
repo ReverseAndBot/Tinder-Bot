@@ -6,12 +6,17 @@
 
 &nbsp;
 
+![banner](Screenshot_-_Snapchat-API-Bot_-_by-GitHub-ReverseAndBot_-_Create-a-workflow_-_20240824.png)
+Screenshot: How to create a Snapchat bot workflow, consisting of several jobs (tasks)
+
+&nbsp;
+
 > [!NOTE]
-> Last update of this page: September 1st, 2024
+> Last update of this page: September 4th, 2024
 
 
 > [!IMPORTANT]
-> Please follow us and "star" this repository to
+> Please follow us and also "star" and watch this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
@@ -33,6 +38,7 @@
 
   - Everything runs in the background on our servers 24/7.
   - Setup the workflows once with your favorite browser.
+  - Advanced "web panel" solution (2 frontend server, 10+ backend servers).
   - No installation required.
   - No poor ADB bridge (no connected devices).
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
@@ -50,18 +56,38 @@
   - Tinder ***Location Spoofer*** (to set your desired geo location wherever you want, no external app required)
   - Tinder Swiper
   - Tinder ***Chat/Messenger*** incl. auto responder (scheduled messages based on events/keywords)
-  - Chat/Messenger supports ChatGPT and/or internal AI and/or Spintax
+  - Chat/Messenger supports ChatGPT and/or our own custom internal AI and/or Spintax
   - Additional professional options for OnlyFans agencies (OFM)
   - CupidBot replacement (a single setup is enough, everything will run on our servers 24/7 using the Tinder API, without any interaction by you)
-  - Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)
+  - Full integration into the Snapchat API Bot solution (100 % automation): https://github.com/ReverseAndBot/Snapchat-Bot
+  - API service available for professional users
+  - Tinder Signer service available for selected professional users
+  - ***Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)***
   - etc.
 
 - List to be continued soon.
 
+- Standard modules included in all of our SaaS API bots, like e. g. https://github.com/ReverseAndBot/Snapchat-Bot
+
+  - Proxy support (mobile, residential, data center, static, rotating, own setup etc.)
+  - Definition of proxy <-> account relations (e. g. fixed proxy IP address for each account)
+  - Proxy grouping
+  - Proxy monitoring with automated error corrections and proactive notifications
+  - Emulation of "human" activities
+  - Emulation of delays (fully customizable) and breaks
+  - Bulk uploads of images/videos
+  - Bulk uploads of userlists (contacts to be added)
+  - Bulk uploads of Tinder accounts
+  - Bulk uploads of proxy definitions
+  - Bulk uploads of email addresses (to be used by the Tinder Account Creator)
+  - Advanced management interface for Tinder accounts, friend lists, proxy servers, email addresses etc.
+  - Modern user interface components based on current UX (User Experience) research studies with real users
+  - "5 Minute Quick Start" incl. useful example data
+
 &nbsp;
 
 > [!IMPORTANT]
-> Please follow us and "star" this repository to
+> Please follow us and also "star" and watch this repository to
 > - receive updates
 > - get notified about new modules and features
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
