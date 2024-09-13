@@ -2,12 +2,12 @@
 
 &nbsp;
 
-## Tinder API Bot - SaaS solution - Based on the hidden Tinder iOS API - Currently unter development (as of September 2024)
+## Tinder API Bot - Tinder API Account Creator - SaaS solution - Based on the hidden Tinder iOS API - Currently unter development (as of September 2024)
 
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: September 4th, 2024
+> Last update of this page: September 13th, 2024
 
 
 > [!IMPORTANT]
@@ -21,13 +21,14 @@
 
 &nbsp;
 
-### Tinder API Bot (SaaS solution)
+### Tinder API Bot - Tinder API Account Creator (SaaS solution)
+
 
 - Based on the hidden Tinder iOS API.
 
 - Currently under development (as of September 2024)
   
-- Compatible with Tinder 15.x.
+- Compatible with the lastest Tinder 15.17.0 release
 
 - Complete SaaS [^1] solution:
 
