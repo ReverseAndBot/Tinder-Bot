@@ -34,7 +34,7 @@
 
   - Everything runs in the background on our servers 24/7.
   - Setup the workflows once with your favorite browser.
-  - Advanced "web panel" solution (2 frontend server, 10+ backend servers).
+  - Advanced "web panel" solution (2 frontend servers, 10+ backend servers).
   - No installation required.
   - No poor ADB bridge (no connected devices).
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
