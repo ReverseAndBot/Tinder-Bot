@@ -28,7 +28,7 @@
 
 - Currently under development (as of September 2024)
   
-- Compatible with the lastest Tinder 15.17.0 release
+- Compatible with the lastest Tinder 15.18.0 release
 
 - Complete SaaS [^1] solution:
 
