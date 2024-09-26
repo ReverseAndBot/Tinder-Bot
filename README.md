@@ -7,7 +7,7 @@
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: September 13th, 2024
+> Last update of this page: September 26th, 2024
 
 
 > [!IMPORTANT]
