@@ -2,12 +2,12 @@
 
 &nbsp;
 
-## Tinder API Bot - Tinder API Account Creator - SaaS solution - Based on the hidden Tinder iOS API - Currently unter development (as of September 2024)
+## Tinder API Bot - Tinder API Account Creator - SaaS solution - Based on the hidden Tinder iOS API - Currently unter development (as of October 2024)
 
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: September 26th, 2024
+> Last update of this page: October 28th, 2024
 
 
 > [!IMPORTANT]
@@ -26,9 +26,9 @@
 
 - Based on the hidden Tinder iOS API.
 
-- Currently under development (as of September 2024)
+- Currently under development (as of October 2024)
   
-- Compatible with the lastest Tinder 15.18.0 release
+- Compatible with the lastest Tinder 15.19.0/15.19.1 release
 
 - Complete SaaS [^1] solution:
 
@@ -58,7 +58,7 @@
   - Full integration into the Snapchat API Bot solution (100 % automation): https://github.com/ReverseAndBot/Snapchat-Bot
   - API service available for professional users
   - Tinder Signer service available for selected professional users
-  - ***Interesting new modules and workflows will follow in September 2024 (please talk to us, please "star" this repository)***
+  - ***Interesting new modules and workflows will follow in November 2024 (please talk to us, please "star" this repository)***
   - etc.
 
 - List to be continued soon.
