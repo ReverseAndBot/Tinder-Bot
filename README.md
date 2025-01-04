@@ -2,12 +2,12 @@
 
 &nbsp;
 
-## Tinder API Bot - Tinder API Account Creator - SaaS solution - Based on the hidden Tinder iOS API - Currently unter development (as of December 2024)
+## Tinder API Bot - Tinder API Account Creator - SaaS solution - Based on the hidden Tinder iOS API - To be releaed later - Working as of January 2025
 
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: December 19th, 2024
+> Last update of this page: January 4th, 2025
 
 
 > [!IMPORTANT]
@@ -26,7 +26,7 @@
 
 - Based on the hidden Tinder iOS API.
 
-- Currently under development (as of December 2024)
+- To be releaed later - Working as of January 2025
   
 - Compatible with the lastest Tinder 15.23.1 release
 
@@ -102,7 +102,7 @@
 - Contact:
 
   - X (Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
-  - Telegram: ***(new Telegram address will follow soon)*** <!-- - https://telegram.me/ReverseEngineeringBHW -->
+  - Telegram: @ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
   - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/
   - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
   - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Tinder-Bot
