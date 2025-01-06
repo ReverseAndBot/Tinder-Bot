@@ -7,7 +7,7 @@
 &nbsp;
 
 > [!NOTE]
-> Last update of this page: January 4th, 2025
+> Last update of this page: January 6th, 2025
 
 
 > [!IMPORTANT]
@@ -17,7 +17,7 @@
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
 > - receive discounts for trial accounts
 > 
-> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The GitHub account is free of charge.
 
 &nbsp;
 
@@ -25,8 +25,6 @@
 
 
 - Based on the hidden Tinder iOS API.
-
-- To be releaed later - Working as of January 2025
 
 - ***The Tinder API bot currently works for an exclusive circle of people, there is no public release yet. We were also asked to not publicly release it. But this may change in a few weeks, not sure.***
   
@@ -41,8 +39,9 @@
   - No poor ADB bridge (no connected devices).
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
   - No poor browser module.
-  - No jailbreaks or tweaks used (since no physical devices are required).
-  - No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.
+  - No Appium or XCUITest solution.
+  - ***No jailbreaks or tweaks used** (since no physical devices or emulators are required).
+  - ***No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.***
 
 - We also offer:
 
@@ -57,8 +56,9 @@
   - We can be your independent freelancers, project partners or consulting people
   - High quality solutions with future updates and support, "Made in West Europe"
   - We don't offer anything "open source" or for free
-  - Please contact us to discuss your requirements (don't contact us if your budget is lower than US$ 2,000 ;-))
-
+  - Please contact us to discuss your requirements
+  - More about us (history, skills, other projects): https://github.com/ReverseAndBot/ReverseAndBot
+    
 - A few examples of (soon) available modules:
 
   - Tinder ***Account Creator***
@@ -106,7 +106,7 @@
 > - not miss the release with limited customer slots (given to a new ***group of selected qualified customers***)
 > - receive discounts for trial accounts
 > 
-> If you don't have a GitHub account, you simply can sign up here with your email address only. The account is free of charge.
+> If you don't have a GitHub account, you simply can sign up here with your email address only. The GitHub account is free of charge.
 
 &nbsp;
 
@@ -131,10 +131,14 @@
 
 &nbsp;
 
+- More about us (history, skills, other projects): https://github.com/ReverseAndBot/ReverseAndBot
+
+&nbsp;
+
 ### Screenshots and videos
 
 &nbsp;
 
 ### Keywords
 
-Tinder Bot - Tinder API Bot - Tinder API - Tinder API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Tinder-Att - X-Tinder-Att-Token - X-Snap-Access-Token - X-Tinder-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - OnlyFans - OFM
+Tinder Bot - Tinder API Bot - Tinder API - Tinder API Endpoints - Reverse Engineering - Reverse Engineer - Reverse-Engineering - Reverse-Engineer - SSL Pinning - SSL Unpinning - SSL-Pinning - SSL-Unpinning - X-Tinder-Att - X-Tinder-Att-Token - X-Snap-Access-Token - X-Tinder-Client-Auth-Token - CupidBot - Tinder - Bumble - Badoo - Grindr - Hinge - OnlyFans - OFM
