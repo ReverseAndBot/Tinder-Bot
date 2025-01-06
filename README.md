@@ -40,7 +40,7 @@
   - No poor signer being used. C++ example code here: https://github.com/ReverseAndBot/Tinder-Bot/blob/main/TinderGenerateTokens.cpp
   - No poor browser module.
   - No Appium or XCUITest solution.
-  - ***No jailbreaks or tweaks used** (since no physical devices or emulators are required).
+  - ***No jailbreaks or tweaks used*** (since no physical devices or emulators are required).
   - ***No phones required, no tablets required, no emulators required, no browser emulation required, no own server required.***
 
 - We also offer:
